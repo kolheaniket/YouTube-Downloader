@@ -1,5 +1,7 @@
 # YouTube-Downloader
 This is a Python script that allows users to download videos from either a predefined playlist or a user-created playlist with the option to choose the resolution of the videos.
+
+
 :param title: The title of the video being downloaded
 :return: Nothing is being returned. The code is prompting the user to choose between creating their
 own playlist or using a predefined playlist, and then downloading videos from the chosen playlist
